@@ -15,7 +15,6 @@ jupyterlab
 jupyterlab_server
 librosa
 matplotlib
-multiprocessing
 nbclient
 nbformat
 notebook
