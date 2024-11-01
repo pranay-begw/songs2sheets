@@ -13,7 +13,9 @@ jupyter_server
 jupyter_server_terminals
 jupyterlab
 jupyterlab_server
+librosa
 matplotlib
+multiprocessing
 nbclient
 nbformat
 notebook
@@ -21,6 +23,7 @@ numpy
 pandas
 pillow
 pip
+pretty_midi
 pyarrow
 pytest
 torch
