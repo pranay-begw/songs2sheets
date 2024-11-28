@@ -33,6 +33,7 @@ requests
 scikit-learn
 scipy
 setuptools
+tensorflow
 tokenizers
 torchvision
 transformers
